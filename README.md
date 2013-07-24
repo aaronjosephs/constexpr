@@ -1,0 +1,4 @@
+constexpr
+=========
+
+Constant expression boredom
